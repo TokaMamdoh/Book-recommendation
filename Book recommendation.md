@@ -41,7 +41,7 @@ To create a user profile, the system mostly focuses on two types of information:
     2. A history of the user’s interaction with the recommender system.
 
 #### Colaborative filtering
-![image](hhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F02%2Fintroduction-to-collaborative-filtering%2F&psig=AOvVaw1njxSenQa1bxeTPYwZAlZU&ust=1671263324889000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCJCe-5jT_fsCFQAAAAAdAAAAABAR)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F02%2Fintroduction-to-collaborative-filtering%2F&psig=AOvVaw1njxSenQa1bxeTPYwZAlZU&ust=1671263324889000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCJCe-5jT_fsCFQAAAAAdAAAAABAR)
 - Collaborative filtering is based on the idea that similar people (based on the data) generally tend to like similar things. It predicts which item a user will like based on the item preferences of other similar users. 
 - Collaborative filtering uses a user-item matrix to generate recommendations. This matrix contains the values that indicate a user’s preference for a given item. These values can represent either explicit feedback (direct user ratings) or implicit feedback (indirect user behavior such as listening, purchasing, and watching).
     o	Explicit Feedback: The amount of data that is collected from the users when they choose to do so. Many times, users choose not to provide data for the user. So, this data is scarce and sometimes costs money.  For example, ratings from the user.
