@@ -41,7 +41,7 @@ To create a user profile, the system mostly focuses on two types of information:
     2. A history of the user’s interaction with the recommender system.
 
 #### Colaborative filtering
-![image](https://www.bing.com/images/search?view=detailV2&ccid=bgEwJtqm&id=24AC7F0521C4FBFF1E5AD74C66DA76584771DF1C&thid=OIP.bgEwJtqmPZAhEE2uWSNqawHaCy&mediaurl=https%3a%2f%2fwww.digitalvidya.com%2fwp-content%2fuploads%2f2019%2f12%2f1_mM089Lta5X6zkUkULcO9aA_2eb032e471550e902d447becfb1036ed.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6e013026daa63d9021104dae59236a6b%3frik%3dHN9xR1h22mZM1w%26pid%3dImgRaw%26r%3d0&exph=273&expw=725&q=collaborative+filtering+recommender+systems&simid=608029612876582040&FORM=IRPRST&ck=627BB2504282CB155202D0D2EEE13CD2&selectedIndex=51&ajaxhist=0&ajaxserp=0)
+![image](https://www.digitalvidya.com/wp-content/uploads/2019/12/1_mM089Lta5X6zkUkULcO9aA_2eb032e471550e902d447becfb1036ed.png)
 - Collaborative filtering is based on the idea that similar people (based on the data) generally tend to like similar things. It predicts which item a user will like based on the item preferences of other similar users. 
 - Collaborative filtering uses a user-item matrix to generate recommendations. This matrix contains the values that indicate a user’s preference for a given item. These values can represent either explicit feedback (direct user ratings) or implicit feedback (indirect user behavior such as listening, purchasing, and watching).
     o	Explicit Feedback: The amount of data that is collected from the users when they choose to do so. Many times, users choose not to provide data for the user. So, this data is scarce and sometimes costs money.  For example, ratings from the user.
